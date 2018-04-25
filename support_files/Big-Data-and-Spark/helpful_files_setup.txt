@@ -1,0 +1,4 @@
+Data Science:
+
+EC2 Help:
+https://medium.com/@josemarcialportilla/getting-spark-python-and-jupyter-notebook-running-on-amazon-ec2-dec599e1c297
